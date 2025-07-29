@@ -11,7 +11,12 @@ h1 {
     font-size: 24px;
 }
 
-nav {
+nav ul {
+    list-style-type: none;
+}
+
+nav a {
+    text-decoration: none;
     color: #E5E7EB;
     font-size: 18px;
 }
