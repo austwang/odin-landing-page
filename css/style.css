@@ -32,6 +32,15 @@ nav a {
     font-size: 18px;
 }
 
+button {
+    background-color: #3882FB;
+    color: #F9FAF8;
+    font-weight: 900;
+    padding: 8px 28px;
+    border: 0px;
+    border-radius: 4px;
+}
+
 .section-three {
     background-color: #E5E7EB;
 }
