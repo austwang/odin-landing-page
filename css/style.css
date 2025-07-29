@@ -1,3 +1,11 @@
 body {
     font-family: Roboto, sans-serif;
 }
+
+header, .section-one {
+    background-color: #1F2937;
+}
+
+.section-three {
+    background-color: #E5E7EB;
+}
