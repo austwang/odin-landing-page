@@ -59,6 +59,15 @@ button {
     color: #1F2937;
     font-size: 36px;
     font-weight: 900;
+    text-align: center;
+}
+
+.image-container {
+    display: flex;
+}
+
+.image-info {
+    text-align: center;
 }
 
 .section-two img {
