@@ -67,3 +67,19 @@ button {
     font-size: 24px;
     font-weight: bold;
 }
+
+.section-four {
+    background-color: #3882FB;
+}
+
+.section-four h2 {
+    color: #F9FAF8;
+}
+
+.section-four p {
+    color: #E5E7EB;
+}
+
+.section-four button {
+    border: 2px solid white;
+}
