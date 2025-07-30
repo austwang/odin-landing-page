@@ -77,6 +77,7 @@ button {
 
 .section-three {
     background-color: #E5E7EB;
+    padding: 64px 192px;
 }
 
 .quote {
@@ -89,6 +90,7 @@ button {
 .author {
     font-size: 24px;
     font-weight: bold;
+    text-align: end;
 }
 
 .section-four {
