@@ -30,10 +30,15 @@ nav a {
     font-size: 18px;
 }
 
+.section-one {
+    padding: 152px;
+}
+
 .section-one h2 {
     color: #F9FAF8;
     font-size: 48px;
     font-weight: 900;
+    margin: 0;
 }
 
 .section-one p {
