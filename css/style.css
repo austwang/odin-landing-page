@@ -95,10 +95,16 @@ button {
 
 .section-four {
     background-color: #3882FB;
+    padding: 64px 128px;
+    margin: 64px 164px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
 }
 
 .section-four h2 {
     color: #F9FAF8;
+    margin: 0;
 }
 
 .section-four p {
