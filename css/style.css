@@ -116,6 +116,7 @@ button {
     border-radius: 8px;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .section-four h2 {
