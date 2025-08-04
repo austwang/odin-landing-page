@@ -85,7 +85,7 @@ button {
 .section-two img {
     border: 4px solid #3882FB;
     border-radius: 10%;
-    width: 150px;
+    max-width: 150px;
 }
 
 .section-three {
